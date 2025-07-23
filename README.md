@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ajay Makwana </h1>
 <h3 align="center">💡 Passionate Mobile & Frontend Developer | Turning Ideas into Pixel-Perfect Interfaces</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaymakwana123&label=Profile%20views&color=0e75b6&style=flat-square" alt="ajaymakwana123" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajaymakwana123" alt="ajaymakwana123" /></a> </p>
-
 - 🔭 I’m currently working on **Java And Kotlin**
 
 - 🌱 I’m currently learning **React.js, Next.js, MongoDB, TailwindCss**
