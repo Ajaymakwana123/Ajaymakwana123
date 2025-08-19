@@ -1,4 +1,4 @@
-<h2 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"  />!I am Ajay Makwana</h2>
+<h2 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"  /> I am Ajay Makwana</h2>
 <h3 align="center">💡 Passionate Mobile & Frontend Developer | Turning Ideas into Pixel-Perfect Interfaces</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaymakwana123&label=Profile%20views&color=0e75b6&style=flat-square" alt="ajaymakwana123" /> </p>
